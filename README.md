@@ -28,8 +28,7 @@ Cada pasta possui exercícios específicos, que serão feitos em sala de aula, a
 Caso não possua o `Elixir` instalado localmente em seu computador, você pode usar a funcionalidade de "CodeSpaces" do Github, que cria um ambiente virtual completo para você desenvolver suas soluções dentro desse repositório. Basta Seguir os passos do video a seguir:
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://vimeo.com/manage/videos/924379944)
-
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://github.com/andromeda-fie/elixar/assets/44469426/86f0f5e2-8471-428d-ab77-73e6fa6c11d6))](https://vimeo.com/manage/videos/924379944)
 
 
 ## 🤝 Contribuições
