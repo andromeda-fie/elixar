@@ -11,20 +11,26 @@ O Projeto ANDROMEDA é uma aventura intergaláctica na programação funcional, 
 Este repositório está estruturado em várias branches, cada uma focando em um tópico específico da programação funcional:
 
 1. `funções` - Introdução às funções e conceitos básicos em `[Linguagem]`.
-2. `imutabilidade` - Trabalhando com valores e estruturas de dados imutáveis.
-3. `funções-como-valor` - Explorando funções como cidadãs de primeira classe, transparência referencial e funções puras vs impuras.
-4. `casamento-padrão` - Aprofundando-se em casamento de padrões e controle de fluxo.
-5. `recursão` - Dominando a recursão, transformando listas e otimização de chamadas de cauda.
-6. `funções-alta-ordem` - Entendendo funções de alta ordem, composição de funções e funções como parâmetros.
-7. `laboratório` - Exercícios práticos e a construção de uma biblioteca para valores “Enumeráveis”.
+2. `recursão` - Dominando a recursão, transformando listas e otimização de chamadas de cauda.
 
-Cada branch contém exemplos práticos, exercícios e desafios para solidificar seu conhecimento.
+Cada pasta possui exercícios específicos, que serão feitos em sala de aula, além de outras baterias de exercícios que serão executados por cada aluno da matéria "Tópicos em Programação - Introdução a Programação Funcinal com Elixir", em casa.
 
 ## 📚 Como começar?
 
 1. Clone este repositório.
-2. Escolha a branch que corresponde ao tópico de interesse.
-3. Siga as instruções e exemplos fornecidos em cada branch.
+2. Escolha a pasta/bateria de exercícios a ser resolvida
+3. Resolva os exercícios diretamento nos arquivos fonte
+4. Excute o comando `elixir <caminho-exercicio>` para verificar se sua solução está correta.
+  - Exemplo: Caso o exercício seja `01-funções/01_soma.exs`, basta executar `elixir 01-funções/01_soma.exs` em seu terminal.
+
+### Dicas
+
+Caso não possua o `Elixir` instalado localmente em seu computador, você pode usar a funcionalidade de "CodeSpaces" do Github, que cria um ambiente virtual completo para você desenvolver suas soluções dentro desse repositório. Basta Seguir os passos do video a seguir:
+
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://vimeo.com/manage/videos/924379944)
+
+
 
 ## 🤝 Contribuições
 
