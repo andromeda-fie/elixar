@@ -20,7 +20,7 @@ Cada pasta possui exercícios específicos, que serão feitos em sala de aula, a
 1. Clone este repositório.
 2. Escolha a pasta/bateria de exercícios a ser resolvida
 3. Resolva os exercícios diretamento nos arquivos fonte
-4. Excute o comando `elixir <caminho-exercicio>` para verificar se sua solução está correta.
+4. Execute o comando `elixir <caminho-exercicio>` para verificar se sua solução está correta.
   - Exemplo: Caso o exercício seja `01-funções/01_soma.exs`, basta executar `elixir 01-funções/01_soma.exs` em seu terminal.
 
 ### Dicas
